@@ -1,0 +1,5 @@
+make -C /lib/modules/3.16.0-30-generic/build M=/media/sf_eudyptula/ex_1 modules
+make[1]: Entering directory `/usr/src/linux-headers-3.16.0-30-generic'
+  Building modules, stage 2.
+  MODPOST 1 modules
+make[1]: Leaving directory `/usr/src/linux-headers-3.16.0-30-generic'

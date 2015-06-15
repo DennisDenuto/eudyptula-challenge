@@ -1,0 +1,9 @@
+Module                  Size  Used by
+hello_1                12426  0 
+vboxsf                 39690  1 
+vboxguest             248693  6 vboxsf
+psmouse               106561  0 
+ahci                   34062  2 
+libahci                32424  1 ahci
+e1000                 133256  0 
+pata_acpi              13053  0 
