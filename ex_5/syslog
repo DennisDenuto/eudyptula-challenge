@@ -1,0 +1,22 @@
+Jan  3 00:26:08 ubuntu-xenial kernel: [  159.257156] [info]  init called
+Jan  3 00:26:08 ubuntu-xenial kernel: [  159.257173] usbcore: registered new interface driver some_usb_device
+Jan  3 00:27:27 ubuntu-xenial kernel: [  159.257174] [info]  reg driver all good
+Jan  3 00:27:27 ubuntu-xenial kernel: [  238.404060] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534498] usb 1-1: New USB device found, idVendor=05ac, idProduct=12a8
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534501] usb 1-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534503] usb 1-1: Product: iPhone
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534504] usb 1-1: Manufacturer: Apple Inc.
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534505] usb 1-1: SerialNumber: 63a3c3baf4fad8508fdf7fd0c02c4d1a65c8d1ff
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534661] usb 1-1: ep 0x2 - rounding interval to 8 microframes, ep desc says 10 microframes
+Jan  3 00:27:28 ubuntu-xenial kernel: [  238.534664] usb 1-1: ep 0x81 - rounding interval to 8 microframes, ep desc says 10 microframes
+Jan  3 00:29:15 ubuntu-xenial kernel: [  238.537980] [info]  m1_probe called
+Jan  3 00:29:15 ubuntu-xenial kernel: [  345.735356] usb 1-1: USB disconnect, device number 2
+Jan  3 00:29:35 ubuntu-xenial kernel: [  345.735420] [info]  m1_disconnect called
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.184470] usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.314859] usb 1-1: New USB device found, idVendor=05ac, idProduct=12a8
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.314862] usb 1-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.314864] usb 1-1: Product: iPhone
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.314866] usb 1-1: Manufacturer: Apple Inc.
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.314867] usb 1-1: SerialNumber: 63a3c3baf4fad8508fdf7fd0c02c4d1a65c8d1ff
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.315108] usb 1-1: ep 0x2 - rounding interval to 8 microframes, ep desc says 10 microframes
+Jan  3 00:29:35 ubuntu-xenial kernel: [  366.315111] usb 1-1: ep 0x81 - rounding interval to 8 microframes, ep desc says 10 microframes
